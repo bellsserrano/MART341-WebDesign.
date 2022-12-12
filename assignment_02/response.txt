@@ -1,1 +1,6 @@
-
+1. What is a directory, and what is its relationship to files? 
+	A directpry is a structural organization that resembles a tree, with a single root that branches off into related groups of content. Its relationship between the two refers to how information is stored into files while files are stored within directories.
+2. How are VCS useful?
+	VCS are version control systems and they are useful due to being able to help nyou track committed changes, allow you to revert back to the previous version of your work andmaking it easier to share and or collaborte with peers. 
+3. Do you have a favorite artistic medium? Why is it your favorite?
+	My favorite artisict medium would be photography and videography. I have my own photography business and have found I can be my most creative when behind a camera capturing the beauty of the small and big moments of others. 
