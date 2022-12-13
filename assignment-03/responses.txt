@@ -1,0 +1,6 @@
+What is the relationship between an IP address and the DNS?
+The relationship is that the IP address uses network services to communicate with each other and the DNS translates domain names for the use of words instead of numbers so browsers can utilize the internet.
+What is a cookie?
+A cookie is small text files of data from a website on the internet that said website can utilize at a later time.
+What are the three essential parts of a URL?
+The three essential parts of a URL are the protocol, domain or subdomain and the path or directory. 
